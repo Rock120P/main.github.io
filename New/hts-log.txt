@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Nov 2018 15:06:30 at http://thetheme.io/flaty/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://thetheme.io/flaty/ -O1 "C:\My Web Sites\New" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:07:59	Error: 	"Not Found" (404) at link thetheme.io/flaty/img/favicon.png (from thetheme.io/flaty/)
+15:11:53	Error: 	"Not Found" (404) at link thetheme.io/flaty/index.htnl (from thetheme.io/flaty/more_error-404.html)
+15:11:53	Error: 	"Not Found" (404) at link thetheme.io/flaty/set-skin.html (from thetheme.io/flaty/more_set-sidebar-navbar-color.html)
+15:11:57	Error: 	"Not Found" (404) at link thetheme.io/flaty/assets/bootstrap-duallistbox/bootstrap-duallistbox/bootstrap-duallistbox.css (from thetheme.io/flaty/assets/bootstrap-duallistbox/index.html)
+15:11:57	Error: 	"Not Found" (404) at link thetheme.io/flaty/assets/bootstrap-duallistbox/bootstrap-duallistbox/jquery.bootstrap-duallistbox.js (from thetheme.io/flaty/assets/bootstrap-duallistbox/index.html)
+15:12:00	Warning: 	Retry after error -4 (No data (connection closed)) at link netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css (from thetheme.io/flaty/assets/bootstrap-switch/examples/index.html)
+15:12:00	Error: 	"Not Found" (404) at link thetheme.io/flaty/assets/data-tables/images/sort_asc_disabled.png (from thetheme.io/flaty/assets/data-tables/bootstrap3/dataTables.bootstrap.css)
+15:12:00	Error: 	"Not Found" (404) at link thetheme.io/flaty/assets/data-tables/images/sort_desc_disabled.png (from thetheme.io/flaty/assets/data-tables/bootstrap3/dataTables.bootstrap.css)
+15:12:00	Error: 	"Not Found" (404) at link thetheme.io/flaty/assets/prettyPhoto/images/prettyPhoto/facebook/default_img-thumbnail.gif (from thetheme.io/flaty/assets/prettyPhoto/css/prettyPhoto.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 31 seconds : 233 links scanned, 223 files written (8045454 bytes overall) [7130098 bytes received at 21541 bytes/sec], 1197512 bytes transferred using HTTP compression in 49 files, ratio 18%, 1.0 requests per connection
+(8 errors, 1 warnings, 0 messages)
