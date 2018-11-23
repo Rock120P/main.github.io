@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.virtuosoft.eu	TRUE	/	FALSE	1999999999	__cfduid	df7957ed9a98b1539bbd5462a3cda98951542964257
-.getbootstrap.com	TRUE	/	FALSE	1999999999	__cfduid	d1bb5bddaabe815733349425d68bb145c1542964314
-
